@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=quit1
+Exec=qmlscene $@ Main.qml
+Icon=quit1.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
